@@ -1,3 +1,5 @@
+! pip install brian2
+
 from brian2 import *
 import numpy as np
 from parameters import *
